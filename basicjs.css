@@ -58,6 +58,8 @@ ol li, ul li{
     align-items: left;
     padding: 100px 50px;
     text-align: left;
+    max-width: 720px;
+    margin: 0 auto;
 }
 .que-1{
     padding-bottom: 50px;
@@ -75,7 +77,9 @@ footer{
     padding: 0 50px 50px 50px;
     align-items: center;
     justify-content: center;
-    text-align: center;
+    text-align: left;
+    max-width: 720px;
+    margin: 0 auto;
 }
 
 a{
